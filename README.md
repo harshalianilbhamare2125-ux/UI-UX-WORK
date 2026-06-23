@@ -13,6 +13,9 @@ LINK: https://www.figma.com/design/qvznMooJTpVT6ZHHwaAYby/Untitled?m=auto&t=8OPt
 # Swiggy UI
 LINK: https://www.figma.com/proto/e8C0G7HKKOzC0T5FGamW11/swiggy?node-id=35-2&starting-point-node-id=35%3A2&t=nboi3UthHdwGIK2x-1
 
+# J-Shop
+LINK: https://www.figma.com/proto/gqS4NdeuKiIEw44t4jYzU5/j-shop?node-id=45-132&p=f&t=xnfcP6jt1jLs7ITz-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A134&starting-point-node-id=45%3A2
+
 ## Tools Used
 - Adobe XD / Figma
 - UI/UX Design
