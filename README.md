@@ -17,7 +17,10 @@ LINK: https://www.figma.com/proto/e8C0G7HKKOzC0T5FGamW11/swiggy?node-id=35-2&sta
 LINK: https://www.figma.com/proto/gqS4NdeuKiIEw44t4jYzU5/j-shop?node-id=45-132&p=f&t=xnfcP6jt1jLs7ITz-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A134&starting-point-node-id=45%3A2 
 
 # PAY_PAGES UI
-LINK: https://www.figma.com/proto/6TNBGBb7PMr0xgvkoVRzfO/PAY_PAGES?node-id=1-2&p=f&t=cz4gNIy9AjYk0wr3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+LINK: https://www.figma.com/proto/6TNBGBb7PMr0xgvkoVRzfO/PAY_PAGES?node-id=1-2&p=f&t=cz4gNIy9AjYk0wr3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1   
+
+# Pizza Animation 
+LINK: https://www.figma.com/proto/9crQ82kMhuPca5h9np1czl/PIZZA-ANIMATION--Community-?node-id=2-2&p=f&t=t3yWxbHG5w08mcPI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
 
 ## Tools Used
 - Adobe XD / Figma
